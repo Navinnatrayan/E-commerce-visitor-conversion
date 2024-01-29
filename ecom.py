@@ -126,11 +126,11 @@ with tab5:
                 '''
                 <div style="background-color: #f0f0f0; padding: 15px; border-radius: 10px;font-family: "Times New Roman">
                     <p style="font-size: 18px;">About the creator:</p>
-                    <p style="font-size: 18px;">The app is created by: Joel Gracelin</p>
+                    <p style="font-size: 18px;">The app is created by: NAVIN N</p>
                     <p style="font-size: 18px;">This app is created as a part of Guvi Master Data Science course</p>
                     <p style="font-size: 18px;">Domain: Sales and Ecommerce</p>
                     <p style="font-size: 18px;">Inspired by Conversion classification models</p>
-                    <p style="font-size: 18px;">[Ghithub](https://github.com/Joel717)</p>
+                    <p style="font-size: 18px;">[Ghithub](https://github.com/Navinnatrayan)</p>
                 </div>
                 ''',
                 unsafe_allow_html=True
